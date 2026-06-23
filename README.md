@@ -13,7 +13,7 @@ The project integrates multiple sensors with the STM32 Blue Pill to provide a co
 # 📸 Project Poster
 
 <p align="center">
-  <img src="docs/mspa4_EDA_photo_canvas.png" width="900">
+  <img src="./mspa4_EDA_photo_canvas.png" alt="Project Poster" width="900">
 </p>
 
 ---
@@ -63,7 +63,7 @@ The project integrates multiple sensors with the STM32 Blue Pill to provide a co
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="docs/block_diagram.png" width="750">
+  <img src="./block_diagram.png" alt="Block Diagram" width="700">
 </p>
 
 ---
@@ -132,7 +132,7 @@ OLED Display + Buzzer Alert
 ## 📷 Hardware Setup
 
 <p align="center">
-  <img src="docs/hardware_img.jpeg" width="650">
+  <img src="./hardware_img.jpeg" alt="Hardware Setup" width="700">
 </p>
 
 ---
