@@ -173,10 +173,5 @@ Heartbeat-Patient-Monitoring-System
 **Mrunali Jibhakate**
 
 🎓 B.Tech Electronics Engineering  
-💻 Aspiring Software Engineer | Embedded Systems | C/C++ | System Programming
+💻 Software Engineer | Embedded Systems | C/C++ | System Programming
 
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
